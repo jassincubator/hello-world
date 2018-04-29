@@ -1,3 +1,3 @@
 # hello-world
 Test
-Hi guys! That project is a test!
+Hi guys! This project is a test!
